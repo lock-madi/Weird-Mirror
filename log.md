@@ -51,7 +51,7 @@ Intention of session : Making a rough draft of heart monitor in TD. There is an 
 My watch is not new enough to be compatible with the software. Trying second app Pulsoid. 
 Pulsoid is connected to Touch Designer! Now working on putting the watch on and taking it off. There is delay in the taking off sequence so adding a manual command to reset. 
 
-###First Try
+### First Try
 
 <video src="HeartRate Blob.MOV" controls width="640"></video>
 
