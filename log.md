@@ -42,3 +42,20 @@ A person plays guitar while the image behind them shifts and changes color and s
 - **Inputs:** Guitar music/audio
 - **Outputs:** Changes in color, shapes, and background visuals
 - **Concept:** Music and performance creating responsive visuals.
+
+
+## 9/22/2026
+
+Intention of session : Making a rough draft of heart monitor in TD. There is an app called TDInput that can hook phones and smart watches to Touch Designer. I would love to make progress with it. 
+
+My watch is not new enough to be compatible with the software. Trying second app Pulsoid. 
+Pulsoid is connected to Touch Designer! Now working on putting the watch on and taking it off. There is delay in the taking off sequence so adding a manual command to reset. 
+
+###First Try
+
+<video src="HeartRate Blob.MOV" controls width="640"></video>
+
+From here I wanted to make some revisions to the look of it. This is what I came up with:
+
+<video src="HeartRate 3D.MOV" controls width="640"></video>
+
