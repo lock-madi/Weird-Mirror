@@ -71,4 +71,4 @@ Adding flow into TD file. I'm currently playing around with the idea of making i
 
 Refined BPM in top corner, new screen telling you to put on the watch, fixed audio glitches, added ECG monitor on the bottom, and added pop up text to the file to freak the users out. 
 
-<img src="images/Rnd2-9_27-Screenshot.png" width="600">
+<img src="Rnd2-9.27-Screenshot.png" width="600">
