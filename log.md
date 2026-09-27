@@ -46,9 +46,10 @@ A person plays guitar while the image behind them shifts and changes color and s
 
 ## 9/22/2026
 
-Intention of session : Making a rough draft of heart monitor in TD. There is an app called TDInput that can hook phones and smart watches to Touch Designer. I would love to make progress with it. 
+### Intention of session : 
+Making a rough draft of heart monitor in TD. There is an app called TDInput that can hook phones and smart watches to Touch Designer. I would love to make progress with it. 
 
-My watch is not new enough to be compatible with the software. Trying second app Pulsoid. 
+My watch is too old to be compatible with TDInput. Trying second app Pulsoid. 
 Pulsoid is connected to Touch Designer! Now working on putting the watch on and taking it off. There is delay in the taking off sequence so adding a manual command to reset. 
 
 ### First Try
@@ -59,3 +60,11 @@ From here I wanted to make some revisions to the look of it. This is what I came
 
 <video src="HeartRate 3D.MOV" controls width="640"></video>
 
+## 9/26/2026
+
+### Intention of session : 
+Adding flow into TD file. I'm currently playing around with the idea of making it about medical anxiety. Do people really need to see this much data about their bodies every single day? 
+
+Refined BPM in top corner, new screen telling you to put on the watch, fixed audio glitches, added ECG monitor on the bottom, and added pop up text to the file to freak the users out. 
+
+<img src="images/Rnd2-9_27-Screenshot.png" width="600">
