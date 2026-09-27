@@ -54,7 +54,11 @@ Pulsoid is connected to Touch Designer! Now working on putting the watch on and 
 
 ### First Try
 
-<video src="HeartRate Blob.MOV" controls width="640"></video>
+
+
+https://github.com/user-attachments/assets/3d1949c8-8241-4b5c-a7f7-3ab82079e03e
+
+
 
 From here I wanted to make some revisions to the look of it. This is what I came up with:
 
