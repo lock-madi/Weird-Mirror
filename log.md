@@ -72,3 +72,10 @@ Adding flow into TD file. I'm currently playing around with the idea of making i
 Refined BPM in top corner, new screen telling you to put on the watch, fixed audio glitches, added ECG monitor on the bottom, and added pop up text to the file to freak the users out. 
 
 <img src="Rnd2-9.27-Screenshot.png" width="600">
+
+## 9/29/2026
+
+### Intention of session : Adding cruft to the screen, swapping out fonts/colors. Keeping an eye on hierarchy and overlapping with the added cruft. 
+
+<img src="Rnd3-9.29-Screenshot.png" width="600">
+
