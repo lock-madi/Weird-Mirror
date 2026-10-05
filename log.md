@@ -79,3 +79,13 @@ Refined BPM in top corner, new screen telling you to put on the watch, fixed aud
 
 <img src="Rnd3-9.29-Screenshot.png" width="600">
 
+
+## 10/04/2026
+
+### Intention of session : Adding Changes from user testing
+
+First tests I ran on my sister Tori and her husband Drew. They had trouble finding the "hit 0 to start" prompt so I moved it to the center of the screen when its starting up. Tori was getting freaked out by the statistic pop ups and was genuinely concerned about her heart health, which was the core purpose of the project. This inspired me to add a little extra text to the end, reassuring the user and telling them about the medical anxiety focus. 
+
+The second test I ran was on a student in the j-school. She was very curious about the class I was learning this in and didn't seem to have any difficulties following the prompts on the screen. I felt like I needed to give her a little synopsis of what my laptop was doing and why. Maybe I need to make a plackard or something for it?
+
+<img src="IMG_9626.JPG" width="600">
