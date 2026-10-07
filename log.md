@@ -89,3 +89,12 @@ First tests I ran on my sister Tori and her husband Drew. They had trouble findi
 The second test I ran was on a student in the j-school. She was very curious about the class I was learning this in and didn't seem to have any difficulties following the prompts on the screen. I felt like I needed to give her a little synopsis of what my laptop was doing and why. Maybe I need to make a plackard or something for it?
 
 <img src="IMG_9626.JPG" width="600">
+
+
+## 10/06/2026
+
+### Intention of session : Add final state for more understanding of the installation. 
+
+Removed watch from final screen and added an overlay so that the users would focus on the text. Made text larger and centered it in the screen. Also recorded video of a person using the installation. 
+
+<video controls src="IXD 415 - Video.mp4" title="Title"></video>
