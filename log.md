@@ -97,4 +97,4 @@ The second test I ran was on a student in the j-school. She was very curious abo
 
 Removed watch from final screen and added an overlay so that the users would focus on the text. Made text larger and centered it in the screen. Also recorded video of a person using the installation. 
 
-<video src="IXD415-video.mp4" controls width="640"></video>
+https://github.com/user-attachments/assets/21ad7bcf-129d-4b50-9a03-55b83d43ccb3
